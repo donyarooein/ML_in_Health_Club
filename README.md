@@ -1,5 +1,5 @@
 # ML_in_Health_Club
-Welcome to the repository for Machine Learning Packages/tools/models for healthcare. As we cover papers in the meetings, we will add relevant information to this page. We will reorganize this repository later. For now, welcome abroad!
+Welcome to the repository for Machine Learning Packages/tools/models for healthcare. As we cover papers in the meetings, we will add relevant information to this page. We will reorganize this repository later. For now, welcome aboard!
 
 
 #Reference for Tools and Packages:
